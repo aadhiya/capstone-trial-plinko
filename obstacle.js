@@ -1,0 +1,5 @@
+class obstacle{ 
+    constructor(){
+        
+    }
+}
